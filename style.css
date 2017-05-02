@@ -1,0 +1,48 @@
+.top-row{
+    height: 170px;
+    background-color: white;
+    font-family: 'Poiret One', cursive;
+    color: black;
+    font-weight: 50px;
+}
+
+.name{
+    margin-top: 40px;
+}
+
+h1{
+    font-size: 4em !important;
+}
+
+body{
+    background-color: #23577a;
+}
+
+.card{
+    height: 300px;
+    width: 120px;
+    border: 1px solid white;
+}
+
+.text{
+    margin-top: 20px;
+    color: white;
+    font-family: 'Cormorant SC', serif;
+}
+
+.left{
+    padding-top: 10px;
+    background-color: white;
+    height: 460px;
+    width: 300px;
+    margin-top: 15px;
+    font-family: 'Poiret One', cursive;
+}
+
+.image{
+    margin: 80px;
+    width: 150px;
+    height: 120px;
+}
+
+
